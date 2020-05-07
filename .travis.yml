@@ -4,6 +4,3 @@ go:
   - "1.8"
   - master
 
-scripts:
-  echo "34 00 11"
-  cd STO && go test
