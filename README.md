@@ -2,9 +2,7 @@
 
 #### Build Status ![build](https://api.travis-ci.org/Allianzcortex/code_collection.svg?branch=master)
 
-There are multple-programming-languages-projects inside this project, so `CI(Travis)` will use `makefile` rather than `.travis.yml` to execute all the tasks.
-
-You can check [makefile](makefile) for more details.
+There are multple-programming-languages-projects inside this project, so `CI(Travis)` will use [makefile](makefile) rather than `.travis.yml` to execute all the tasks.
 
 ---
 
