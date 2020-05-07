@@ -8,6 +8,19 @@ You can check [makefile](makefile) for more details.
 
 ---
 
+`Full Stack repo` :
+
+[React-forum](react-forum/) A forum demo with `React Hooks + Redux + Redux-thunk`, simple backend by Flask. Check [Readme](react-forum/README.md) for more details.
+
+![Forum](react-forum/forum-1.png)
+
+
+
+
+---
+
+`ML/DL related repo` : 
+
 You could find python implementations( tutorial language is `R` ) for different algorithms in Data-Mining course.
 
 [Apriori-FP](Machine-Learning-Code-Base/Apriori-FP)
