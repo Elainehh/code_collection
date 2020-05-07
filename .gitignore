@@ -1,2 +1,5 @@
 Java8_example/.idea/
 Java8_example/out/
+
+node_modules/
+.idea/
