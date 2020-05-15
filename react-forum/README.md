@@ -40,6 +40,14 @@ or
 
 Step 2
 
+> export FLASK_ENV=development # if ur in *nix environment
+
+or
+
+> set FLASK_ENV=development # if ur in Windows environemnt
+
+Step 3
+
 > flask run
 
 ```
