@@ -14,5 +14,5 @@ jobs:
           go-version: 1.13.4
       - name: Code Collection Test
         run: |
-          cd STO && go test
-          cd Go-pattern &&  go test ./...
+          cd STO && go test && cd ..
+          cd Go-pattern &&  go test ./... && cd ..
