@@ -1,19 +1,4 @@
-# code_collection 
-
-#### Build Status ![build](https://api.travis-ci.org/Allianzcortex/code_collection.svg?branch=master)
-
-There are multple-programming-languages-projects inside this project, so `CI(Travis)` will use [makefile](makefile) rather than `.travis.yml` to execute all the tasks.
-
----
-
-`Full Stack repo` :
-
-[React-forum](react-forum/) A forum demo with `React Hooks + Redux + Redux-thunk`, simple backend by Flask. Check [Readme](react-forum/README.md) for more details.
-
-![Forum](react-forum/forum-1.png)
-
-
-
+#### code_collection  ![build](https://github.com/Allianzcortex/code_collection/workflows/Code%20Collection%20CI/badge.svg)
 
 ---
 
